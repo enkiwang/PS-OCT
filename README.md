@@ -1,7 +1,5 @@
 # PS-OCT
-Polarization-sensitive optical coherence tomography 
-
-This repository provides codes to "Polarization-sensitive optical coherence tomography with deep learning for detecting the local distribution of osteoarthritis severities". 
+This repository provides codes for "Polarization-sensitive optical coherence tomography with deep learning for detecting the local distribution of osteoarthritis severities". 
 
 ## Regression 
 
